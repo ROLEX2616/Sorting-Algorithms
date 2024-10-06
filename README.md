@@ -3,7 +3,7 @@
 ## Aim:
 To write a program to perform selection sort and insertion sort using python programming.
 ## Equipment’s required:
-1.	Hardware – PCs
+1.	Hardware – PCS
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 ## Selection Sort Algorithm:
